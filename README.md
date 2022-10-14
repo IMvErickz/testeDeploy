@@ -1,0 +1,1 @@
+Repositório criado como base para fazer deploy no GITHUB PAGES usando um projeto React, tanto jsx como tsx.
